@@ -1,0 +1,1 @@
+const fn1 = (r, t) => r + t;
